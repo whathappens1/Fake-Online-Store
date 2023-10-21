@@ -1,0 +1,26 @@
+header {
+    position: relative;
+}
+
+@keyframes imgAnimation {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.GoodImg {
+    z-index: 50;
+    opacity: 1;
+    display: none;
+    position: relative !important;
+}
+
+.trueImg {
+    animation: imgAnimation 2s;
+    opacity: 1;
+    display: block;
+}

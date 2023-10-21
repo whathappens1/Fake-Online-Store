@@ -1,0 +1,24 @@
+{
+  "myList": [
+    {
+      "price": 2,
+      "title": "pepsi",
+      "id": 1
+    },
+    {
+      "price": 1,
+      "title": "water",
+      "id": 2
+    },
+    {
+      "price": 15,
+      "title": "toys for my boys",
+      "id": 3
+    },
+    {
+      "price": 25,
+      "title": "Starbucks coffee espresso",
+      "id": 4
+    }
+  ]
+}
