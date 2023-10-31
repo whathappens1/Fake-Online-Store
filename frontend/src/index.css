@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.title {
+  font-size: large;
+}
+
+.border {
+  border: 2px solid red;
+}
+
+p {
+  font-family: 'IBM Plex Sans Arabic', sans-serif !important;
+  font-weight: 500 !important;
+}
+
+li {
+  font-family: 'IBM Plex Sans Arabic', sans-serif !important;
+  font-weight: 400 !important;
+}
+
+h2, h3, h4, h5 {
+  font-family: 'Cairo', sans-serif !important;
+  font-weight: 500 !important;
+}
+
+.sidebarText span, .ChangeModeButton, button {
+  font-family: 'Tajawal', sans-serif !important;
+  font-weight: 600 !important;
+}
+
+.css-imwso6-MuiBottomNavigationAction-label, #demo-row-radio-buttons-group-label {
+  font-family: 'Tajawal', sans-serif !important;
+  font-weight: 500 !important;
+}
+
+.css-ahj2mt-MuiTypography-root {
+  font-family: 'Tajawal', sans-serif !important;
+  font-weight: 600 !important;
+}
+
+a:-webkit-any-link {
+  text-decoration: none !important;
+}
+
+.DesLinkOfPro {
+  transition: all 0.2s;
+}
+
+.DesLinkOfPro:hover {
+  opacity: 0.85;
+  text-decoration: underline;
+}
+
+.css-rjv4i1-MuiFormLabel-root-MuiInputLabel-root, .css-k19w0w-MuiFormLabel-root-MuiInputLabel-root {
+  font-family: 'Tajawal', sans-serif !important;
+  font-weight: 600 !important;
+  transform-origin: top right !important;
+  right: 25px !important;
+  font-size: 1rem !important;
+}
+
+@media (min-width: 0) and (max-width: 600px) {
+  .css-rjv4i1-MuiFormLabel-root-MuiInputLabel-root, .css-k19w0w-MuiFormLabel-root-MuiInputLabel-root, .css-nh22sz-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input.css-nh22sz-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input.css-nh22sz-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input, .css-d9oaum-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input.css-d9oaum-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input.css-d9oaum-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input {
+    font-size: 0.8rem !important;
+  }
+}
+

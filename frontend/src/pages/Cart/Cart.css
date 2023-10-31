@@ -1,0 +1,48 @@
+.css-znqhno-MuiInputBase-root-MuiFilledInput-root,
+.css-1bnuhe6-MuiInputBase-root-MuiFilledInput-root {
+    font-family: 'Changa', sans-serif !important;
+    font-weight: 300 !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.ApplyCodeBtn {
+    background-color: #0063cc !important;
+    color: #fff !important;
+    border-radius: 0 !important;
+    border-top-left-radius: 6px !important;
+    border-bottom-left-radius: 6px !important;
+}
+
+.blueBtn:disabled {
+    opacity: 0.85;
+    color: #f2f2f2c8 !important;
+    cursor: not-allowed !important;
+}
+
+.css-1bnuhe6-MuiInputBase-root-MuiFilledInput-root:after, .css-znqhno-MuiInputBase-root-MuiFilledInput-root:after {
+    border-bottom: 2px solid #0063cc !important;
+}
+
+.css-e784if-MuiTypography-root,
+.css-9xsqkk-MuiTypography-root {
+    font-family: 'Tajawal', sans-serif !important;
+    font-weight: 500 !important;
+}
+
+.freeDelivery {
+    color: #56a7fd !important;
+    font-weight: 700 !important;
+}
+
+.summaryOfOrder,
+.ordersPapers {
+    margin: 0 1rem !important;
+}
+
+@media (min-width: 0) and (max-width: 1143px) {
+    .summaryOfOrder,
+    .ordersPapers {
+        margin: 0 auto !important;
+    }
+}
